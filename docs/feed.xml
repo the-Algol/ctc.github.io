@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:373E9BD5-08CB-4A69-BF31-3B7014F92A62</id>
+ <title>Page list Atom feed</title>
+ <updated>2016-06-02T15:32:04-07:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:D07232BC-7BBC-4E75-AAE6-E8BC40E4C05A</id>
+  <title>Welcome</title>
+  <title xmlns="urn:iweb:">Welcome</title>
+  <in-navbar xmlns="urn:iweb:">D07232BC-7BBC-4E75-AAE6-E8BC40E4C05A</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2016-06-02T15:32:04.001-07:00</updated>
+  <content>Welcome</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:A04FB37B-DC87-4083-B9FA-2608E50F05EF</id>
+  <title>Contact</title>
+  <title xmlns="urn:iweb:">Contact</title>
+  <in-navbar xmlns="urn:iweb:">A04FB37B-DC87-4083-B9FA-2608E50F05EF</in-navbar>
+  <link rel="alternate" href="Contact.html"/>
+  <updated>2016-06-02T15:32:04.002-07:00</updated>
+  <content>Contact</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:08E43555-99B1-4E38-9082-1A615019952C</id>
+  <title>Services</title>
+  <title xmlns="urn:iweb:">Services</title>
+  <in-navbar xmlns="urn:iweb:">08E43555-99B1-4E38-9082-1A615019952C</in-navbar>
+  <link rel="alternate" href="Services.html"/>
+  <updated>2016-06-02T15:32:04.003-07:00</updated>
+  <content>Services</content>
+ </entry>
+</feed>
